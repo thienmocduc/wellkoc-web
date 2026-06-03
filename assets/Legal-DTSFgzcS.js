@@ -1,4 +1,4 @@
-import{c as b,r as m,j as h}from"./vendor-iB7E5Z4M.js";import{u as H}from"./index-gc6XI3E8.js";import"./supabase-DNRNKszz.js";import"./ui-C0B0hiOq.js";const K=`CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+import{c as b,r as m,j as h}from"./vendor-iB7E5Z4M.js";import{u as H}from"./index-BLt-X2gF.js";import"./supabase-DNRNKszz.js";import"./ui-C0B0hiOq.js";const K=`CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 ───────────────────────────────
 WELLKOC PLATFORM Nền tảng Thương mại Cộng đồng Web3
